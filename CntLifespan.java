@@ -39,7 +39,7 @@ public class CntLifespan {
         		object.put(d[i]+1,-1);
         	}
         }
-	System.out.println("xvxvv");
+	
 	TreeMap<Integer, Integer> sorted = new TreeMap<>(); 
 	  
     // Copy all data from hashMap into TreeMap 
